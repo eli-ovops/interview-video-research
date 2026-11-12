@@ -1,0 +1,632 @@
+{
+  "chapters": [
+    {
+      "index": 1,
+      "start": 0,
+      "end": 42,
+      "segments": 24,
+      "first_segment": {
+        "from": 0,
+        "to": 1480
+      },
+      "last_segment": {
+        "from": 40800,
+        "to": 41320
+      },
+      "decoded_text_chars": 201,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 2,
+      "start": 42,
+      "end": 91,
+      "segments": 11,
+      "first_segment": {
+        "from": 0,
+        "to": 6000
+      },
+      "last_segment": {
+        "from": 43200,
+        "to": 49200
+      },
+      "decoded_text_chars": 211,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 3,
+      "start": 91,
+      "end": 482,
+      "segments": 160,
+      "first_segment": {
+        "from": 0,
+        "to": 5640
+      },
+      "last_segment": {
+        "from": 389840,
+        "to": 391040
+      },
+      "decoded_text_chars": 1726,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 4,
+      "start": 482,
+      "end": 988,
+      "segments": 208,
+      "first_segment": {
+        "from": 0,
+        "to": 3060
+      },
+      "last_segment": {
+        "from": 504720,
+        "to": 506000
+      },
+      "decoded_text_chars": 2302,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 5,
+      "start": 988,
+      "end": 1503,
+      "segments": 204,
+      "first_segment": {
+        "from": 0,
+        "to": 7300
+      },
+      "last_segment": {
+        "from": 512800,
+        "to": 515000
+      },
+      "decoded_text_chars": 2327,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 6,
+      "start": 1503,
+      "end": 1982,
+      "segments": 140,
+      "first_segment": {
+        "from": 0,
+        "to": 4620
+      },
+      "last_segment": {
+        "from": 476580,
+        "to": 479140
+      },
+      "decoded_text_chars": 2110,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 7,
+      "start": 1982,
+      "end": 2346,
+      "segments": 122,
+      "first_segment": {
+        "from": 0,
+        "to": 3600
+      },
+      "last_segment": {
+        "from": 362520,
+        "to": 364080
+      },
+      "decoded_text_chars": 1613,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 8,
+      "start": 2346,
+      "end": 2821,
+      "segments": 154,
+      "first_segment": {
+        "from": 0,
+        "to": 5000
+      },
+      "last_segment": {
+        "from": 473380,
+        "to": 475380
+      },
+      "decoded_text_chars": 2389,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 9,
+      "start": 2821,
+      "end": 3166,
+      "segments": 122,
+      "first_segment": {
+        "from": 0,
+        "to": 2240
+      },
+      "last_segment": {
+        "from": 343040,
+        "to": 344760
+      },
+      "decoded_text_chars": 1422,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 10,
+      "start": 3166,
+      "end": 3962,
+      "segments": 304,
+      "first_segment": {
+        "from": 0,
+        "to": 4540
+      },
+      "last_segment": {
+        "from": 794800,
+        "to": 795820
+      },
+      "decoded_text_chars": 3820,
+      "unicode_replacements": 2
+    },
+    {
+      "index": 11,
+      "start": 3962,
+      "end": 4203,
+      "segments": 77,
+      "first_segment": {
+        "from": 0,
+        "to": 3420
+      },
+      "last_segment": {
+        "from": 239940,
+        "to": 240980
+      },
+      "decoded_text_chars": 1008,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 12,
+      "start": 4203,
+      "end": 4927,
+      "segments": 260,
+      "first_segment": {
+        "from": 0,
+        "to": 4560
+      },
+      "last_segment": {
+        "from": 722120,
+        "to": 723520
+      },
+      "decoded_text_chars": 3348,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 13,
+      "start": 4927,
+      "end": 5410,
+      "segments": 177,
+      "first_segment": {
+        "from": 0,
+        "to": 2240
+      },
+      "last_segment": {
+        "from": 478600,
+        "to": 483160
+      },
+      "decoded_text_chars": 2352,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 14,
+      "start": 5410,
+      "end": 5546,
+      "segments": 40,
+      "first_segment": {
+        "from": 0,
+        "to": 9500
+      },
+      "last_segment": {
+        "from": 132220,
+        "to": 135820
+      },
+      "decoded_text_chars": 557,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 15,
+      "start": 5546,
+      "end": 5802,
+      "segments": 80,
+      "first_segment": {
+        "from": 0,
+        "to": 3840
+      },
+      "last_segment": {
+        "from": 253780,
+        "to": 256080
+      },
+      "decoded_text_chars": 1075,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 16,
+      "start": 5802,
+      "end": 6347,
+      "segments": 174,
+      "first_segment": {
+        "from": 0,
+        "to": 4440
+      },
+      "last_segment": {
+        "from": 541700,
+        "to": 544360
+      },
+      "decoded_text_chars": 2553,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 17,
+      "start": 6347,
+      "end": 6614,
+      "segments": 100,
+      "first_segment": {
+        "from": 0,
+        "to": 3560
+      },
+      "last_segment": {
+        "from": 264920,
+        "to": 267440
+      },
+      "decoded_text_chars": 1259,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 18,
+      "start": 6614,
+      "end": 6839,
+      "segments": 105,
+      "first_segment": {
+        "from": 0,
+        "to": 6140
+      },
+      "last_segment": {
+        "from": 221360,
+        "to": 223760
+      },
+      "decoded_text_chars": 1094,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 19,
+      "start": 6839,
+      "end": 7125,
+      "segments": 126,
+      "first_segment": {
+        "from": 0,
+        "to": 1540
+      },
+      "last_segment": {
+        "from": 284340,
+        "to": 286020
+      },
+      "decoded_text_chars": 1455,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 20,
+      "start": 7125,
+      "end": 7334,
+      "segments": 94,
+      "first_segment": {
+        "from": 0,
+        "to": 1560
+      },
+      "last_segment": {
+        "from": 205440,
+        "to": 208960
+      },
+      "decoded_text_chars": 1022,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 21,
+      "start": 7334,
+      "end": 7443,
+      "segments": 36,
+      "first_segment": {
+        "from": 0,
+        "to": 5000
+      },
+      "last_segment": {
+        "from": 106740,
+        "to": 109040
+      },
+      "decoded_text_chars": 487,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 22,
+      "start": 7443,
+      "end": 7773,
+      "segments": 120,
+      "first_segment": {
+        "from": 0,
+        "to": 1280
+      },
+      "last_segment": {
+        "from": 327140,
+        "to": 329540
+      },
+      "decoded_text_chars": 1517,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 23,
+      "start": 7773,
+      "end": 8618,
+      "segments": 279,
+      "first_segment": {
+        "from": 0,
+        "to": 1400
+      },
+      "last_segment": {
+        "from": 842000,
+        "to": 845000
+      },
+      "decoded_text_chars": 4038,
+      "unicode_replacements": 1
+    },
+    {
+      "index": 24,
+      "start": 8618,
+      "end": 9005,
+      "segments": 153,
+      "first_segment": {
+        "from": 0,
+        "to": 2940
+      },
+      "last_segment": {
+        "from": 386540,
+        "to": 387340
+      },
+      "decoded_text_chars": 1901,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 25,
+      "start": 9005,
+      "end": 9644,
+      "segments": 201,
+      "first_segment": {
+        "from": 0,
+        "to": 6000
+      },
+      "last_segment": {
+        "from": 626980,
+        "to": 637220
+      },
+      "decoded_text_chars": 3061,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 26,
+      "start": 9644,
+      "end": 9794,
+      "segments": 38,
+      "first_segment": {
+        "from": 0,
+        "to": 1000
+      },
+      "last_segment": {
+        "from": 145280,
+        "to": 150140
+      },
+      "decoded_text_chars": 704,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 27,
+      "start": 9794,
+      "end": 10201,
+      "segments": 118,
+      "first_segment": {
+        "from": 0,
+        "to": 6000
+      },
+      "last_segment": {
+        "from": 398320,
+        "to": 407120
+      },
+      "decoded_text_chars": 1719,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 28,
+      "start": 10201,
+      "end": 10869,
+      "segments": 255,
+      "first_segment": {
+        "from": 0,
+        "to": 7000
+      },
+      "last_segment": {
+        "from": 667540,
+        "to": 668060
+      },
+      "decoded_text_chars": 3573,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 29,
+      "start": 10869,
+      "end": 10983,
+      "segments": 35,
+      "first_segment": {
+        "from": 0,
+        "to": 3360
+      },
+      "last_segment": {
+        "from": 111080,
+        "to": 113960
+      },
+      "decoded_text_chars": 508,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 30,
+      "start": 10983,
+      "end": 11424,
+      "segments": 159,
+      "first_segment": {
+        "from": 0,
+        "to": 3740
+      },
+      "last_segment": {
+        "from": 435220,
+        "to": 436460
+      },
+      "decoded_text_chars": 1908,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 31,
+      "start": 11424,
+      "end": 11722,
+      "segments": 118,
+      "first_segment": {
+        "from": 0,
+        "to": 7640
+      },
+      "last_segment": {
+        "from": 294340,
+        "to": 297920
+      },
+      "decoded_text_chars": 1264,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 32,
+      "start": 11722,
+      "end": 12242,
+      "segments": 166,
+      "first_segment": {
+        "from": 0,
+        "to": 1380
+      },
+      "last_segment": {
+        "from": 518780,
+        "to": 520340
+      },
+      "decoded_text_chars": 2251,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 33,
+      "start": 12242,
+      "end": 12819,
+      "segments": 192,
+      "first_segment": {
+        "from": 0,
+        "to": 9000
+      },
+      "last_segment": {
+        "from": 565980,
+        "to": 574860
+      },
+      "decoded_text_chars": 2509,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 34,
+      "start": 12819,
+      "end": 13785,
+      "segments": 352,
+      "first_segment": {
+        "from": 0,
+        "to": 6660
+      },
+      "last_segment": {
+        "from": 963380,
+        "to": 964660
+      },
+      "decoded_text_chars": 4261,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 35,
+      "start": 13785,
+      "end": 14255,
+      "segments": 136,
+      "first_segment": {
+        "from": 0,
+        "to": 12280
+      },
+      "last_segment": {
+        "from": 467820,
+        "to": 470120
+      },
+      "decoded_text_chars": 2040,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 36,
+      "start": 14255,
+      "end": 14529,
+      "segments": 80,
+      "first_segment": {
+        "from": 0,
+        "to": 8480
+      },
+      "last_segment": {
+        "from": 270800,
+        "to": 273800
+      },
+      "decoded_text_chars": 1213,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 37,
+      "start": 14529,
+      "end": 15139,
+      "segments": 168,
+      "first_segment": {
+        "from": 0,
+        "to": 1440
+      },
+      "last_segment": {
+        "from": 607420,
+        "to": 610420
+      },
+      "decoded_text_chars": 2705,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 38,
+      "start": 15139,
+      "end": 15394,
+      "segments": 108,
+      "first_segment": {
+        "from": 0,
+        "to": 4560
+      },
+      "last_segment": {
+        "from": 251860,
+        "to": 253860
+      },
+      "decoded_text_chars": 1212,
+      "unicode_replacements": 0
+    },
+    {
+      "index": 39,
+      "start": 15394,
+      "end": 15749,
+      "segments": 128,
+      "first_segment": {
+        "from": 0,
+        "to": 6640
+      },
+      "last_segment": {
+        "from": 353480,
+        "to": 354580
+      },
+      "decoded_text_chars": 1518,
+      "unicode_replacements": 0
+    }
+  ],
+  "total_segments": 5524,
+  "gaps_over_8_seconds": [],
+  "out_of_bounds": [],
+  "status": "coverage_scanned_not_assumption_of_silence"
+}

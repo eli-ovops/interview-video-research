@@ -1,0 +1,98 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,140"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6140
+			},
+			"text": "所以我就是選了三甲鏈"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,140",
+				"to": "00:00:09,160"
+			},
+			"offsets": {
+				"from": 6140,
+				"to": 9160
+			},
+			"text": "我就戀Elon Musk"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,160",
+				"to": "00:00:11,060"
+			},
+			"offsets": {
+				"from": 9160,
+				"to": 11060
+			},
+			"text": "Wornbuffet Donald Trump"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,060",
+				"to": "00:00:14,380"
+			},
+			"offsets": {
+				"from": 11060,
+				"to": 14380
+			},
+			"text": "Elon Musk 的英雄"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,380",
+				"to": "00:00:17,140"
+			},
+			"offsets": {
+				"from": 14380,
+				"to": 17140
+			},
+			"text": "Wornbuffet 的金融"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,140",
+				"to": "00:00:19,140"
+			},
+			"offsets": {
+				"from": 17140,
+				"to": 19140
+			},
+			"text": "以及長賽道"
+		}
+	]
+}

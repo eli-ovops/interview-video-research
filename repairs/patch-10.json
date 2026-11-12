@@ -1,0 +1,208 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,280"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4280
+			},
+			"text": "就是大家千万不要觉得我一定要比孔子的任志第一"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,840",
+				"to": "00:00:05,280"
+			},
+			"offsets": {
+				"from": 4840,
+				"to": 5280
+			},
+			"text": "对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,280",
+				"to": "00:00:05,840"
+			},
+			"offsets": {
+				"from": 5280,
+				"to": 5840
+			},
+			"text": "对对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,840",
+				"to": "00:00:06,920"
+			},
+			"offsets": {
+				"from": 5840,
+				"to": 6920
+			},
+			"text": "学了就能超过"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,920",
+				"to": "00:00:07,440"
+			},
+			"offsets": {
+				"from": 6920,
+				"to": 7440
+			},
+			"text": "对对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,440",
+				"to": "00:00:08,080"
+			},
+			"offsets": {
+				"from": 7440,
+				"to": 8080
+			},
+			"text": "对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,080",
+				"to": "00:00:09,680"
+			},
+			"offsets": {
+				"from": 8080,
+				"to": 9680
+			},
+			"text": "伊龙网斯特朗普"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,680",
+				"to": "00:00:11,200"
+			},
+			"offsets": {
+				"from": 9680,
+				"to": 11200
+			},
+			"text": "八卑的都不如我们的任志"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,200",
+				"to": "00:00:12,160"
+			},
+			"offsets": {
+				"from": 11200,
+				"to": 12160
+			},
+			"text": "小伙我们这个"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,160",
+				"to": "00:00:14,280"
+			},
+			"offsets": {
+				"from": 12160,
+				"to": 14280
+			},
+			"text": "博机学会了就超过他们了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,280",
+				"to": "00:00:14,840"
+			},
+			"offsets": {
+				"from": 14280,
+				"to": 14840
+			},
+			"text": "对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,840",
+				"to": "00:00:16,160"
+			},
+			"offsets": {
+				"from": 14840,
+				"to": 16160
+			},
+			"text": "对你今天看这个播课"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,160",
+				"to": "00:00:16,920"
+			},
+			"offsets": {
+				"from": 16160,
+				"to": 16920
+			},
+			"text": "你今天学了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,920",
+				"to": "00:00:18,000"
+			},
+			"offsets": {
+				"from": 16920,
+				"to": 18000
+			},
+			"text": "你今天开始看博机"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,000",
+				"to": "00:00:18,320"
+			},
+			"offsets": {
+				"from": 18000,
+				"to": 18320
+			},
+			"text": "审计"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,320",
+				"to": "00:00:19,040"
+			},
+			"offsets": {
+				"from": 18320,
+				"to": 19040
+			},
+			"text": "今天开始学见了"
+		}
+	]
+}

@@ -1,0 +1,153 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6000
+			},
+			"text": "哈喽哈喽 孙哥 我自我介绍一下 我叫杀尔伦Ellen 是一个千万粉丝口语博主"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,000",
+				"to": "00:00:10,800"
+			},
+			"offsets": {
+				"from": 6000,
+				"to": 10800
+			},
+			"text": "也是博机理论的创始人 那很高兴今天可以获得这个采访的机会"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,800",
+				"to": "00:00:13,800"
+			},
+			"offsets": {
+				"from": 10800,
+				"to": 13800
+			},
+			"text": "那我们就直接开始 好 好 开始吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,800",
+				"to": "00:00:15,800"
+			},
+			"offsets": {
+				"from": 13800,
+				"to": 15800
+			},
+			"text": "孙哥现在开始练博机了吗"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,800",
+				"to": "00:00:18,800"
+			},
+			"offsets": {
+				"from": 15800,
+				"to": 18800
+			},
+			"text": "已经开始了 开始了一天了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,800",
+				"to": "00:00:21,800"
+			},
+			"offsets": {
+				"from": 18800,
+				"to": 21800
+			},
+			"text": "计划什么时候成为博机版的孙哥"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,800",
+				"to": "00:00:26,200"
+			},
+			"offsets": {
+				"from": 21800,
+				"to": 26200
+			},
+			"text": "我觉得三个月吧 三个月到六个月"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,200",
+				"to": "00:00:30,200"
+			},
+			"offsets": {
+				"from": 26200,
+				"to": 30200
+			},
+			"text": "然后我们可以看一看 到时候的这个进展"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,200",
+				"to": "00:00:36,200"
+			},
+			"offsets": {
+				"from": 30200,
+				"to": 36200
+			},
+			"text": "好的 非常期待 三个月多高多重 体质率大概多少"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,200",
+				"to": "00:00:43,200"
+			},
+			"offsets": {
+				"from": 36200,
+				"to": 43200
+			},
+			"text": "我现在就是一 一七二 高度一七二"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:43,200",
+				"to": "00:00:49,200"
+			},
+			"offsets": {
+				"from": 43200,
+				"to": 49200
+			},
+			"text": "然后大概七十五公斤左右 体质大概二十九吧"
+		}
+	]
+}

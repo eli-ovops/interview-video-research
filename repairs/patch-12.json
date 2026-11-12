@@ -1,0 +1,164 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2000
+			},
+			"text": "重點了 確實背透"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,000",
+				"to": "00:00:04,000"
+			},
+			"offsets": {
+				"from": 2000,
+				"to": 4000
+			},
+			"text": "我們都懂"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,000",
+				"to": "00:00:07,000"
+			},
+			"offsets": {
+				"from": 4000,
+				"to": 7000
+			},
+			"text": "要禮譽一下就成了中國就是最有名的詞人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,000",
+				"to": "00:00:13,000"
+			},
+			"offsets": {
+				"from": 7000,
+				"to": 13000
+			},
+			"text": "這個詞大家覺得當華麗沒得做不到"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 13000,
+				"to": 17000
+			},
+			"text": "這個詞一下子全世界衝擊了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:19,000"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 19000
+			},
+			"text": "成了中國這個宋詞"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,000",
+				"to": "00:00:22,000"
+			},
+			"offsets": {
+				"from": 19000,
+				"to": 22000
+			},
+			"text": "唐詩宋詞 他成宋詞的代表人物了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,000",
+				"to": "00:00:26,000"
+			},
+			"offsets": {
+				"from": 22000,
+				"to": 26000
+			},
+			"text": "宋朝的皇帝把他老婆搶了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,000",
+				"to": "00:00:32,500"
+			},
+			"offsets": {
+				"from": 26000,
+				"to": 32500
+			},
+			"text": "但沒想到自己的發明的這個宋子法被禮日統治了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,500",
+				"to": "00:00:36,500"
+			},
+			"offsets": {
+				"from": 32500,
+				"to": 36500
+			},
+			"text": "禮日其實 譬如說他接受前面接受這個宋子的教育"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:36,500",
+				"to": "00:00:38,000"
+			},
+			"offsets": {
+				"from": 36500,
+				"to": 38000
+			},
+			"text": "也順些文化教育而已"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 44000
+			},
+			"text": "然後他後天的這個人生給他這個東西 經歷給他這個詞中"
+		}
+	]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "chapter": 8,
+    "start": 2522.4,
+    "end": 2541.4,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-01.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-01.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 10,
+    "start": 3467.42,
+    "end": 3486.42,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-02.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-02.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 12,
+    "start": 4534.12,
+    "end": 4578.12,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-03.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-03.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 13,
+    "start": 5036.98,
+    "end": 5055.98,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-04.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-04.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 16,
+    "start": 6194.22,
+    "end": 6238.22,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-05.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-05.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 23,
+    "start": 8319.32,
+    "end": 8363.32,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-06.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-06.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 23,
+    "start": 8578.0,
+    "end": 8622.0,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-07.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-07.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 28,
+    "start": 10519.76,
+    "end": 10563.76,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-08.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-08.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 28,
+    "start": 10773.72,
+    "end": 10792.72,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-09.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-09.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 28,
+    "start": 10836.06,
+    "end": 10855.06,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-10.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-10.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 34,
+    "start": 13405.4,
+    "end": 13424.4,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-11.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-11.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  },
+  {
+    "chapter": 37,
+    "start": 14655.58,
+    "end": 14699.58,
+    "reason": "ASR重复或字节损坏",
+    "json": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-12.json",
+    "audio": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-12.wav",
+    "status": "retranscribed_higher_quality_short_window"
+  }
+]

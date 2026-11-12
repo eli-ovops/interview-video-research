@@ -1,0 +1,109 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,360"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4360
+			},
+			"text": "你整個40%到80歲的生活質量"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,860",
+				"to": "00:00:06,660"
+			},
+			"offsets": {
+				"from": 4860,
+				"to": 6660
+			},
+			"text": "一個決定性體上"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,160",
+				"to": "00:00:08,200"
+			},
+			"offsets": {
+				"from": 7160,
+				"to": 8200
+			},
+			"text": "伯基就是風格"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,440",
+				"to": "00:00:09,480"
+			},
+			"offsets": {
+				"from": 8440,
+				"to": 9480
+			},
+			"text": "伯基就是風格"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,980",
+				"to": "00:00:11,520"
+			},
+			"offsets": {
+				"from": 9980,
+				"to": 11520
+			},
+			"text": "風格我覺得對風格"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,280",
+				"to": "00:00:16,380"
+			},
+			"offsets": {
+				"from": 12280,
+				"to": 16380
+			},
+			"text": "我跟你講這個剛剛我們叫做人軍弱價現在就是人軍伯基"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,640",
+				"to": "00:00:19,200"
+			},
+			"offsets": {
+				"from": 16640,
+				"to": 19200
+			},
+			"text": "如果你現在在20歲到40歲中國年輕人"
+		}
+	]
+}

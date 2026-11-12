@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:00,840"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 840
+			},
+			"text": "他会告诉我"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:00,840",
+				"to": "00:00:02,680"
+			},
+			"offsets": {
+				"from": 840,
+				"to": 2680
+			},
+			"text": "就先吃高蛋白的那种"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,680",
+				"to": "00:00:03,520"
+			},
+			"offsets": {
+				"from": 2680,
+				"to": 3520
+			},
+			"text": "然后我"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,520",
+				"to": "00:00:07,040"
+			},
+			"offsets": {
+				"from": 3520,
+				"to": 7040
+			},
+			"text": "就现在也配了蛋白粉和鸡酸"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,040",
+				"to": "00:00:08,760"
+			},
+			"offsets": {
+				"from": 7040,
+				"to": 8760
+			},
+			"text": "蛋白粉25克"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,760",
+				"to": "00:00:10,480"
+			},
+			"offsets": {
+				"from": 8760,
+				"to": 10480
+			},
+			"text": "鸡酸5克"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,480",
+				"to": "00:00:10,840"
+			},
+			"offsets": {
+				"from": 10480,
+				"to": 10840
+			},
+			"text": "好啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,840",
+				"to": "00:00:11,600"
+			},
+			"offsets": {
+				"from": 10840,
+				"to": 11600
+			},
+			"text": "然后就"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,600",
+				"to": "00:00:12,360"
+			},
+			"offsets": {
+				"from": 11600,
+				"to": 12360
+			},
+			"text": "就吃"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,360",
+				"to": "00:00:13,800"
+			},
+			"offsets": {
+				"from": 12360,
+				"to": 13800
+			},
+			"text": "然后吃完就"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,800",
+				"to": "00:00:14,480"
+			},
+			"offsets": {
+				"from": 13800,
+				"to": 14480
+			},
+			"text": "就"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,480",
+				"to": "00:00:15,800"
+			},
+			"offsets": {
+				"from": 14480,
+				"to": 15800
+			},
+			"text": "就训练"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,800",
+				"to": "00:00:16,800"
+			},
+			"offsets": {
+				"from": 15800,
+				"to": 16800
+			},
+			"text": "如果"
+		}
+	]
+}

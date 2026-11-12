@@ -1,0 +1,175 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,080"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4080
+			},
+			"text": "你的骨頭育和不了 肌肉育和不了 所有東西都來了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,080",
+				"to": "00:00:06,940"
+			},
+			"offsets": {
+				"from": 4080,
+				"to": 6940
+			},
+			"text": "我覺得這四課需要聽這一期播課"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,940",
+				"to": "00:00:10,420"
+			},
+			"offsets": {
+				"from": 6940,
+				"to": 10420
+			},
+			"text": "對 絕對是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,420",
+				"to": "00:00:14,560"
+			},
+			"offsets": {
+				"from": 10420,
+				"to": 14560
+			},
+			"text": "而且我跟你講 這個如果他的認知沒管過來"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,560",
+				"to": "00:00:17,160"
+			},
+			"offsets": {
+				"from": 14560,
+				"to": 17160
+			},
+			"text": "叫中年尼爾 你知道吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,160",
+				"to": "00:00:20,280"
+			},
+			"offsets": {
+				"from": 17160,
+				"to": 20280
+			},
+			"text": "越是對的話 越聽你聽起來"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,280",
+				"to": "00:00:21,960"
+			},
+			"offsets": {
+				"from": 20280,
+				"to": 21960
+			},
+			"text": "如果他認知沒有轉過來"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,960",
+				"to": "00:00:24,960"
+			},
+			"offsets": {
+				"from": 21960,
+				"to": 24960
+			},
+			"text": "戲努絕對腦袋 他反而覺得你們這些人是錯的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,960",
+				"to": "00:00:27,320"
+			},
+			"offsets": {
+				"from": 24960,
+				"to": 27320
+			},
+			"text": "就跟那個布蘭江森嘛"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,320",
+				"to": "00:00:33,720"
+			},
+			"offsets": {
+				"from": 27320,
+				"to": 33720
+			},
+			"text": "他推廣他的東大其沒有任何問題也沒有折到伊隆馬斯克"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,720",
+				"to": "00:00:38,220"
+			},
+			"offsets": {
+				"from": 33720,
+				"to": 38220
+			},
+			"text": "伊隆馬斯克就是要咬死了說他前面這個肥的時候很好"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,220",
+				"to": "00:00:41,720"
+			},
+			"offsets": {
+				"from": 38220,
+				"to": 41720
+			},
+			"text": "就是給你搞一個認知扭曲"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,720",
+				"to": "00:00:44,220"
+			},
+			"offsets": {
+				"from": 41720,
+				"to": 44220
+			},
+			"text": "所以我就說經常這個東西就"
+		}
+	]
+}

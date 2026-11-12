@@ -1,0 +1,219 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3000
+			},
+			"text": "要先練深蹲啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,000",
+				"to": "00:00:05,000"
+			},
+			"offsets": {
+				"from": 3000,
+				"to": 5000
+			},
+			"text": "因為腿部級喔"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,000",
+				"to": "00:00:06,000"
+			},
+			"offsets": {
+				"from": 5000,
+				"to": 6000
+			},
+			"text": "其實我是最多的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,000",
+				"to": "00:00:08,000"
+			},
+			"offsets": {
+				"from": 6000,
+				"to": 8000
+			},
+			"text": "對對對對"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,000",
+				"to": "00:00:10,000"
+			},
+			"offsets": {
+				"from": 8000,
+				"to": 10000
+			},
+			"text": "對對對"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,000",
+				"to": "00:00:14,000"
+			},
+			"offsets": {
+				"from": 10000,
+				"to": 14000
+			},
+			"text": "我立刻我像AI一樣"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 14000,
+				"to": 17000
+			},
+			"text": "就把張極克這張圖片轉化了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:22,000"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 22000
+			},
+			"text": "立刻就是練為自己所有"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,000",
+				"to": "00:00:25,000"
+			},
+			"offsets": {
+				"from": 22000,
+				"to": 25000
+			},
+			"text": "所以我覺得這個是非常重要"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,000",
+				"to": "00:00:26,000"
+			},
+			"offsets": {
+				"from": 25000,
+				"to": 26000
+			},
+			"text": "就是什麼移動"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,000",
+				"to": "00:00:28,000"
+			},
+			"offsets": {
+				"from": 26000,
+				"to": 28000
+			},
+			"text": "然後能夠把別人的理論"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,000",
+				"to": "00:00:33,380"
+			},
+			"offsets": {
+				"from": 28000,
+				"to": 33380
+			},
+			"text": "把别人的东西的迅速转化为你自己的一个思路"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,380",
+				"to": "00:00:35,940"
+			},
+			"offsets": {
+				"from": 33380,
+				"to": 35940
+			},
+			"text": "我觉得是很重要"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,940",
+				"to": "00:00:39,780"
+			},
+			"offsets": {
+				"from": 35940,
+				"to": 39780
+			},
+			"text": "更不能说是我还不听别人的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,780",
+				"to": "00:00:40,280"
+			},
+			"offsets": {
+				"from": 39780,
+				"to": 40280
+			},
+			"text": "对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,280",
+				"to": "00:00:42,840"
+			},
+			"offsets": {
+				"from": 40280,
+				"to": 42840
+			},
+			"text": "我想分享一个概念不知道你觉得对不对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:42,840",
+				"to": "00:00:43,880"
+			},
+			"offsets": {
+				"from": 42840,
+				"to": 43880
+			},
+			"text": "就是我先看一个月"
+		}
+	]
+}

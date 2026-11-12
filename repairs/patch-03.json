@@ -1,0 +1,186 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1000
+			},
+			"text": "对不对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,000",
+				"to": "00:00:03,480"
+			},
+			"offsets": {
+				"from": 1000,
+				"to": 3480
+			},
+			"text": "那如果我在美国买一个东西便宜的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,480",
+				"to": "00:00:04,560"
+			},
+			"offsets": {
+				"from": 3480,
+				"to": 4560
+			},
+			"text": "我来中国卖"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,560",
+				"to": "00:00:06,920"
+			},
+			"offsets": {
+				"from": 4560,
+				"to": 6920
+			},
+			"text": "其实不仅没卖赚中国人的钱"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,920",
+				"to": "00:00:10,440"
+			},
+			"offsets": {
+				"from": 6920,
+				"to": 10440
+			},
+			"text": "反而给中国人带来的科技带来的新的东西"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,440",
+				"to": "00:00:13,840"
+			},
+			"offsets": {
+				"from": 10440,
+				"to": 13840
+			},
+			"text": "这把这个商品是古力不仅不抓起来"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,840",
+				"to": "00:00:16,080"
+			},
+			"offsets": {
+				"from": 13840,
+				"to": 16080
+			},
+			"text": "还要平为人大代表这个鞋背员"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,080",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 16080,
+				"to": 17000
+			},
+			"text": "对不对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,520",
+				"to": "00:00:18,520"
+			},
+			"offsets": {
+				"from": 17520,
+				"to": 18520
+			},
+			"text": "就这个思路"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,520",
+				"to": "00:00:21,320"
+			},
+			"offsets": {
+				"from": 18520,
+				"to": 21320
+			},
+			"text": "就是我们对于这个脖机我前段时间"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,320",
+				"to": "00:00:24,160"
+			},
+			"offsets": {
+				"from": 21320,
+				"to": 24160
+			},
+			"text": "就是可能有两周进行政治升级"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,680",
+				"to": "00:00:28,600"
+			},
+			"offsets": {
+				"from": 25680,
+				"to": 28600
+			},
+			"text": "肌肉不仅不是一件坏事"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,600",
+				"to": "00:00:38,840"
+			},
+			"offsets": {
+				"from": 28600,
+				"to": 38840
+			},
+			"text": "191 身体健康,咱们这个要多几来击肉,不是反的说不练,给击要控制住的,我觉得这个思想就是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,100",
+				"to": "00:00:43,960"
+			},
+			"offsets": {
+				"from": 39100,
+				"to": 43960
+			},
+			"text": "由这个闭关锁国,走向改个开放,最关键的"
+		}
+	]
+}

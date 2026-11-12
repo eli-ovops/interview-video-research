@@ -1,0 +1,274 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,520"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1520
+			},
+			"text": "就不是肌肉"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,720",
+				"to": "00:00:03,600"
+			},
+			"offsets": {
+				"from": 1720,
+				"to": 3600
+			},
+			"text": "根本就不是錢的事"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,760",
+				"to": "00:00:06,400"
+			},
+			"offsets": {
+				"from": 5760,
+				"to": 6400
+			},
+			"text": "一下"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,960",
+				"to": "00:00:10,320"
+			},
+			"offsets": {
+				"from": 6960,
+				"to": 10320
+			},
+			"text": "一通太一通太干活了太干活了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,320",
+				"to": "00:00:11,000"
+			},
+			"offsets": {
+				"from": 10320,
+				"to": 11000
+			},
+			"text": "对不对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,000",
+				"to": "00:00:11,640"
+			},
+			"offsets": {
+				"from": 11000,
+				"to": 11640
+			},
+			"text": "太干活了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,640",
+				"to": "00:00:13,000"
+			},
+			"offsets": {
+				"from": 11640,
+				"to": 13000
+			},
+			"text": "是不是一通晚通了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,000",
+				"to": "00:00:17,000"
+			},
+			"offsets": {
+				"from": 13000,
+				"to": 17000
+			},
+			"text": "而且我觉得这一次播可应该真的是能帮到很多人这是实话"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,000",
+				"to": "00:00:17,600"
+			},
+			"offsets": {
+				"from": 17000,
+				"to": 17600
+			},
+			"text": "对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,600",
+				"to": "00:00:19,000"
+			},
+			"offsets": {
+				"from": 17600,
+				"to": 19000
+			},
+			"text": "对一通晚通了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:19,200",
+				"to": "00:00:20,600"
+			},
+			"offsets": {
+				"from": 19200,
+				"to": 20600
+			},
+			"text": "真的是一通晚通了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,600",
+				"to": "00:00:21,000"
+			},
+			"offsets": {
+				"from": 20600,
+				"to": 21000
+			},
+			"text": "对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,200",
+				"to": "00:00:23,800"
+			},
+			"offsets": {
+				"from": 21200,
+				"to": 23800
+			},
+			"text": "所以我觉得就是这个任职的体上"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,800",
+				"to": "00:00:24,200"
+			},
+			"offsets": {
+				"from": 23800,
+				"to": 24200
+			},
+			"text": "对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,200",
+				"to": "00:00:25,000"
+			},
+			"offsets": {
+				"from": 24200,
+				"to": 25000
+			},
+			"text": "就我们其实"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,400",
+				"to": "00:00:28,400"
+			},
+			"offsets": {
+				"from": 25400,
+				"to": 28400
+			},
+			"text": "我觉得讲先讲一些世俗大家很关系的东西"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,600",
+				"to": "00:00:31,160"
+			},
+			"offsets": {
+				"from": 28600,
+				"to": 31160
+			},
+			"text": "但是是你过来 然后解决认知"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,420",
+				"to": "00:00:33,720"
+			},
+			"offsets": {
+				"from": 31420,
+				"to": 33720
+			},
+			"text": "他自己用认知解决自己生活中的一切"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,740",
+				"to": "00:00:36,800"
+			},
+			"offsets": {
+				"from": 34740,
+				"to": 36800
+			},
+			"text": "对对对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,300",
+				"to": "00:00:40,120"
+			},
+			"offsets": {
+				"from": 37300,
+				"to": 40120
+			},
+			"text": "而且我们这个可不是为了抽象而抽象"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,380",
+				"to": "00:00:41,660"
+			},
+			"offsets": {
+				"from": 40380,
+				"to": 41660
+			},
+			"text": "就确实就是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,920",
+				"to": "00:00:43,960"
+			},
+			"offsets": {
+				"from": 41920,
+				"to": 43960
+			},
+			"text": "你知道他是一个认知的这么一个体系"
+		}
+	]
+}

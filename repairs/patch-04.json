@@ -1,0 +1,142 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,300"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2300
+			},
+			"text": "要低一等 你这不可以吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,300",
+				"to": "00:00:04,360"
+			},
+			"offsets": {
+				"from": 2300,
+				"to": 4360
+			},
+			"text": "这人人平等啊 中国这个"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,360",
+				"to": "00:00:06,400"
+			},
+			"offsets": {
+				"from": 4360,
+				"to": 6400
+			},
+			"text": "56个民族人平等的吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,400",
+				"to": "00:00:07,560"
+			},
+			"offsets": {
+				"from": 6400,
+				"to": 7560
+			},
+			"text": "你也不得 其实"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,560",
+				"to": "00:00:11,200"
+			},
+			"offsets": {
+				"from": 7560,
+				"to": 11200
+			},
+			"text": "但是我们的历史还是存在对这个遥啊金啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,200",
+				"to": "00:00:12,680"
+			},
+			"offsets": {
+				"from": 11200,
+				"to": 12680
+			},
+			"text": "遥谋化的这个金项"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,680",
+				"to": "00:00:13,080"
+			},
+			"offsets": {
+				"from": 12680,
+				"to": 13080
+			},
+			"text": "啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,560",
+				"to": "00:00:15,840"
+			},
+			"offsets": {
+				"from": 13560,
+				"to": 15840
+			},
+			"text": "所以呢 就是没有分析人家"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,840",
+				"to": "00:00:16,880"
+			},
+			"offsets": {
+				"from": 15840,
+				"to": 16880
+			},
+			"text": "那你想遥和金"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,880",
+				"to": "00:00:19,200"
+			},
+			"offsets": {
+				"from": 16880,
+				"to": 19200
+			},
+			"text": "人家那么牛人家把你送上打的吧"
+		}
+	]
+}

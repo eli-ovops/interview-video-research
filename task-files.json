@@ -1,0 +1,2778 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/0Z-vhBvBmUY.info.json",
+    "bytes": 165525,
+    "mtime": 1791519375.2105398,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/acceptance-checks.json",
+    "bytes": 1401,
+    "mtime": 1791521681.488281,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-01.json",
+    "bytes": 5009,
+    "mtime": 1791519992.664805,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-01.log",
+    "bytes": 4645,
+    "mtime": 1791519992.6648862,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-01.srt",
+    "bytes": 1422,
+    "mtime": 1791519992.6647198,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-01.txt",
+    "bytes": 615,
+    "mtime": 1791519992.664569,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-01.wav",
+    "bytes": 1344078,
+    "mtime": 1791519990.799371,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-02.json",
+    "bytes": 2963,
+    "mtime": 1791519994.2626252,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-02.log",
+    "bytes": 4201,
+    "mtime": 1791519994.2626805,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-02.srt",
+    "bytes": 965,
+    "mtime": 1791519994.2625546,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-02.txt",
+    "bytes": 600,
+    "mtime": 1791519994.262415,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-02.wav",
+    "bytes": 1568078,
+    "mtime": 1791519992.7305813,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-03.json",
+    "bytes": 30887,
+    "mtime": 1791520006.7662358,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-03.log",
+    "bytes": 13384,
+    "mtime": 1791520006.7666235,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-03.srt",
+    "bytes": 10356,
+    "mtime": 1791520006.7659621,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-03.txt",
+    "bytes": 4864,
+    "mtime": 1791520006.7657208,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-03.wav",
+    "bytes": 12512078,
+    "mtime": 1791519994.494831,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-04.json",
+    "bytes": 40465,
+    "mtime": 1791520023.1351702,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-04.log",
+    "bytes": 16940,
+    "mtime": 1791520023.1357281,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-04.srt",
+    "bytes": 14008,
+    "mtime": 1791520023.134779,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-04.txt",
+    "bytes": 6836,
+    "mtime": 1791520023.1344259,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-04.wav",
+    "bytes": 16192078,
+    "mtime": 1791520007.0518246,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-05.json",
+    "bytes": 39790,
+    "mtime": 1791520040.665604,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-05.log",
+    "bytes": 16757,
+    "mtime": 1791520040.6656687,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-05.srt",
+    "bytes": 13817,
+    "mtime": 1791520040.665272,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-05.txt",
+    "bytes": 6785,
+    "mtime": 1791520040.6643548,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-05.wav",
+    "bytes": 16480078,
+    "mtime": 1791520023.4348278,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-06.json",
+    "bytes": 28977,
+    "mtime": 1791520056.2216904,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-06.log",
+    "bytes": 13996,
+    "mtime": 1791520056.2227383,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-06.srt",
+    "bytes": 10928,
+    "mtime": 1791520056.2214258,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-06.txt",
+    "bytes": 6136,
+    "mtime": 1791520056.2205007,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-06.wav",
+    "bytes": 15328078,
+    "mtime": 1791520040.9627292,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07-repair1.json",
+    "bytes": 24774,
+    "mtime": 1791520135.8946536,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07-repair1.log",
+    "bytes": 12083,
+    "mtime": 1791520135.895697,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07-repair1.srt",
+    "bytes": 8955,
+    "mtime": 1791520135.8944044,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07-repair1.txt",
+    "bytes": 4793,
+    "mtime": 1791520135.8941605,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07.json",
+    "bytes": 22069,
+    "mtime": 1791520078.5792422,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07.log",
+    "bytes": 11752,
+    "mtime": 1791520078.5797892,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07.srt",
+    "bytes": 8610,
+    "mtime": 1791520078.5789948,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07.txt",
+    "bytes": 5113,
+    "mtime": 1791520078.5787625,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-07.wav",
+    "bytes": 11648078,
+    "mtime": 1791520056.432586,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-08.json",
+    "bytes": 32090,
+    "mtime": 1791520151.5653627,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-08.log",
+    "bytes": 15337,
+    "mtime": 1791520151.5654178,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-08.srt",
+    "bytes": 12297,
+    "mtime": 1791520151.5645049,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-08.txt",
+    "bytes": 7015,
+    "mtime": 1791520151.5642319,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-08.wav",
+    "bytes": 15200078,
+    "mtime": 1791520136.204072,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-09.json",
+    "bytes": 24058,
+    "mtime": 1791520161.8746896,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-09.log",
+    "bytes": 11394,
+    "mtime": 1791520161.875097,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-09.srt",
+    "bytes": 8290,
+    "mtime": 1791520161.87445,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-09.txt",
+    "bytes": 4128,
+    "mtime": 1791520161.8733013,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-09.wav",
+    "bytes": 11040078,
+    "mtime": 1791520151.7689395,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-10.json",
+    "bytes": 60125,
+    "mtime": 1791520189.448939,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-10.log",
+    "bytes": 24485,
+    "mtime": 1791520189.4489932,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-10.srt",
+    "bytes": 21744,
+    "mtime": 1791520189.4477508,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-10.txt",
+    "bytes": 11212,
+    "mtime": 1791520189.4474256,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-10.wav",
+    "bytes": 25472078,
+    "mtime": 1791520162.3088794,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-11.json",
+    "bytes": 15857,
+    "mtime": 1791520385.8851936,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-11.log",
+    "bytes": 8824,
+    "mtime": 1791520385.885258,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-11.srt",
+    "bytes": 5652,
+    "mtime": 1791520385.8846014,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-11.txt",
+    "bytes": 3043,
+    "mtime": 1791520385.884435,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-11.wav",
+    "bytes": 7712078,
+    "mtime": 1791520378.8217459,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-12.json",
+    "bytes": 51817,
+    "mtime": 1791520410.4181647,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-12.log",
+    "bytes": 21743,
+    "mtime": 1791520410.418219,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-12.srt",
+    "bytes": 18914,
+    "mtime": 1791520410.417283,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-12.txt",
+    "bytes": 9922,
+    "mtime": 1791520410.417009,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-12.wav",
+    "bytes": 23168078,
+    "mtime": 1791520386.2698965,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-13.json",
+    "bytes": 35627,
+    "mtime": 1791520427.2112584,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-13.log",
+    "bytes": 16010,
+    "mtime": 1791520427.211836,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-13.srt",
+    "bytes": 13016,
+    "mtime": 1791520427.2106133,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-13.txt",
+    "bytes": 6929,
+    "mtime": 1791520427.2103684,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-13.wav",
+    "bytes": 15456078,
+    "mtime": 1791520410.7343512,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-14.json",
+    "bytes": 8584,
+    "mtime": 1791520431.1267388,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-14.log",
+    "bytes": 6207,
+    "mtime": 1791520431.1268094,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-14.srt",
+    "bytes": 2998,
+    "mtime": 1791520431.1266189,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-14.txt",
+    "bytes": 1647,
+    "mtime": 1791520431.1265025,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-14.wav",
+    "bytes": 4352078,
+    "mtime": 1791520427.319228,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-15.json",
+    "bytes": 16516,
+    "mtime": 1791520438.9487839,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-15.log",
+    "bytes": 9097,
+    "mtime": 1791520438.9488416,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-15.srt",
+    "bytes": 5928,
+    "mtime": 1791520438.9485853,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-15.txt",
+    "bytes": 3217,
+    "mtime": 1791520438.9483998,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-15.wav",
+    "bytes": 8192078,
+    "mtime": 1791520431.2896106,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-16.json",
+    "bytes": 35744,
+    "mtime": 1791520455.168896,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-16.log",
+    "bytes": 16477,
+    "mtime": 1791520455.1689568,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-16.srt",
+    "bytes": 13477,
+    "mtime": 1791520455.1685789,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-16.txt",
+    "bytes": 7495,
+    "mtime": 1791520455.1683471,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-16.wav",
+    "bytes": 17440078,
+    "mtime": 1791520439.2406714,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-17.json",
+    "bytes": 20032,
+    "mtime": 1791520463.2809412,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-17.log",
+    "bytes": 10101,
+    "mtime": 1791520463.2809944,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-17.srt",
+    "bytes": 6953,
+    "mtime": 1791520463.2807298,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-17.txt",
+    "bytes": 3561,
+    "mtime": 1791520463.2805393,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-17.wav",
+    "bytes": 8544078,
+    "mtime": 1791520455.3356717,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-18.json",
+    "bytes": 20441,
+    "mtime": 1791520470.575971,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-18.log",
+    "bytes": 9906,
+    "mtime": 1791520470.5760286,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-18.srt",
+    "bytes": 6768,
+    "mtime": 1791520470.5757637,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-18.txt",
+    "bytes": 3201,
+    "mtime": 1791520470.5755987,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-18.wav",
+    "bytes": 7200078,
+    "mtime": 1791520463.4208825,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-19.json",
+    "bytes": 24918,
+    "mtime": 1791520480.577356,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-19.log",
+    "bytes": 11747,
+    "mtime": 1791520480.578488,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-19.srt",
+    "bytes": 8651,
+    "mtime": 1791520480.577136,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-19.txt",
+    "bytes": 4349,
+    "mtime": 1791520480.5769117,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-19.wav",
+    "bytes": 9152078,
+    "mtime": 1791520470.7533684,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-20.json",
+    "bytes": 18485,
+    "mtime": 1791520487.2962322,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-20.log",
+    "bytes": 9346,
+    "mtime": 1791520487.2963006,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-20.srt",
+    "bytes": 6191,
+    "mtime": 1791520487.2960043,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-20.txt",
+    "bytes": 3004,
+    "mtime": 1791520487.2957482,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-20.wav",
+    "bytes": 6688078,
+    "mtime": 1791520480.7215989,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-21.json",
+    "bytes": 7626,
+    "mtime": 1791520490.4693701,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-21.log",
+    "bytes": 5763,
+    "mtime": 1791520490.4694457,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-21.srt",
+    "bytes": 2550,
+    "mtime": 1791520490.4692712,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-21.txt",
+    "bytes": 1335,
+    "mtime": 1791520490.4691253,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-21.wav",
+    "bytes": 3488078,
+    "mtime": 1791520487.3828201,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-22.json",
+    "bytes": 24198,
+    "mtime": 1791520501.1875105,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-22.log",
+    "bytes": 11743,
+    "mtime": 1791520501.1875756,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-22.srt",
+    "bytes": 8635,
+    "mtime": 1791520501.1872659,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-22.txt",
+    "bytes": 4543,
+    "mtime": 1791520501.1870334,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-22.wav",
+    "bytes": 10560078,
+    "mtime": 1791520490.6616669,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-23.json",
+    "bytes": 56838,
+    "mtime": 1791520528.8467233,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-23.log",
+    "bytes": 24368,
+    "mtime": 1791520528.8474052,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-23.srt",
+    "bytes": 21577,
+    "mtime": 1791520528.8462825,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-23.txt",
+    "bytes": 11920,
+    "mtime": 1791520528.845945,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-23.wav",
+    "bytes": 27040078,
+    "mtime": 1791520501.691094,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-24.json",
+    "bytes": 30274,
+    "mtime": 1791520541.4791026,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-24.log",
+    "bytes": 13687,
+    "mtime": 1791520541.4796638,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-24.srt",
+    "bytes": 10645,
+    "mtime": 1791520541.478823,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-24.txt",
+    "bytes": 5398,
+    "mtime": 1791520541.4785821,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-24.wav",
+    "bytes": 12384078,
+    "mtime": 1791520529.0849016,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-25.json",
+    "bytes": 41502,
+    "mtime": 1791520562.0840223,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-25.log",
+    "bytes": 18838,
+    "mtime": 1791520562.0844984,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-25.srt",
+    "bytes": 15891,
+    "mtime": 1791520562.0837,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-25.txt",
+    "bytes": 8964,
+    "mtime": 1791520562.0830097,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-25.wav",
+    "bytes": 20448078,
+    "mtime": 1791520541.8099391,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-26.json",
+    "bytes": 8643,
+    "mtime": 1791520566.8716674,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-26.log",
+    "bytes": 6524,
+    "mtime": 1791520566.8717415,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-26.srt",
+    "bytes": 3313,
+    "mtime": 1791520566.8715467,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-26.txt",
+    "bytes": 2030,
+    "mtime": 1791520566.871399,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-26.wav",
+    "bytes": 4800078,
+    "mtime": 1791520562.1933322,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-27.json",
+    "bytes": 24438,
+    "mtime": 1791520579.5748844,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-27.log",
+    "bytes": 12217,
+    "mtime": 1791520579.5749376,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-27.srt",
+    "bytes": 9105,
+    "mtime": 1791520579.574663,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-27.txt",
+    "bytes": 5083,
+    "mtime": 1791520579.574096,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-27.wav",
+    "bytes": 13024078,
+    "mtime": 1791520567.0961008,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-28.json",
+    "bytes": 51826,
+    "mtime": 1791520603.6332927,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-28.log",
+    "bytes": 22364,
+    "mtime": 1791520603.6333466,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-28.srt",
+    "bytes": 19525,
+    "mtime": 1791520603.632909,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-28.txt",
+    "bytes": 10708,
+    "mtime": 1791520603.632619,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-28.wav",
+    "bytes": 21376078,
+    "mtime": 1791520579.9233768,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-29.json",
+    "bytes": 7669,
+    "mtime": 1791520607.2602005,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-29.log",
+    "bytes": 5928,
+    "mtime": 1791520607.2602654,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-29.srt",
+    "bytes": 2714,
+    "mtime": 1791520607.2600987,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-29.txt",
+    "bytes": 1533,
+    "mtime": 1791520607.2599406,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-29.wav",
+    "bytes": 3648078,
+    "mtime": 1791520603.7227664,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-30.json",
+    "bytes": 31567,
+    "mtime": 1791520620.4199862,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-30.log",
+    "bytes": 14192,
+    "mtime": 1791520620.4206798,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-30.srt",
+    "bytes": 11162,
+    "mtime": 1791520620.4197137,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-30.txt",
+    "bytes": 5705,
+    "mtime": 1791520620.4194686,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-30.wav",
+    "bytes": 14112078,
+    "mtime": 1791520607.5014474,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-31.json",
+    "bytes": 23129,
+    "mtime": 1791520629.2519178,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-31.log",
+    "bytes": 10930,
+    "mtime": 1791520629.2519722,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-31.srt",
+    "bytes": 7818,
+    "mtime": 1791520629.251699,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-31.txt",
+    "bytes": 3796,
+    "mtime": 1791520629.2515159,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-31.wav",
+    "bytes": 9536078,
+    "mtime": 1791520620.5951357,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-32.json",
+    "bytes": 33546,
+    "mtime": 1791520644.8707225,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-32.log",
+    "bytes": 15315,
+    "mtime": 1791520644.8715894,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-32.srt",
+    "bytes": 12299,
+    "mtime": 1791520644.870449,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-32.txt",
+    "bytes": 6597,
+    "mtime": 1791520644.8701987,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-32.wav",
+    "bytes": 16640078,
+    "mtime": 1791520629.5231838,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-33.json",
+    "bytes": 38450,
+    "mtime": 1791520662.359028,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-33.log",
+    "bytes": 16915,
+    "mtime": 1791520662.359107,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-33.srt",
+    "bytes": 13951,
+    "mtime": 1791520662.358722,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-33.txt",
+    "bytes": 7339,
+    "mtime": 1791520662.3584657,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-33.wav",
+    "bytes": 18464078,
+    "mtime": 1791520645.201687,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-34.json",
+    "bytes": 68656,
+    "mtime": 1791520691.162351,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-34.log",
+    "bytes": 26970,
+    "mtime": 1791520691.1629453,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-34.srt",
+    "bytes": 24325,
+    "mtime": 1791520691.1611757,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-34.txt",
+    "bytes": 12112,
+    "mtime": 1791520691.1608477,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-34.wav",
+    "bytes": 30912078,
+    "mtime": 1791520662.847495,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-35.json",
+    "bytes": 28215,
+    "mtime": 1791520704.8042662,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-35.log",
+    "bytes": 13748,
+    "mtime": 1791520704.8046322,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-35.srt",
+    "bytes": 10672,
+    "mtime": 1791520704.8040357,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-35.txt",
+    "bytes": 6020,
+    "mtime": 1791520704.8038073,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-35.wav",
+    "bytes": 15040078,
+    "mtime": 1791520691.4184756,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-36.json",
+    "bytes": 16834,
+    "mtime": 1791520713.377584,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-36.log",
+    "bytes": 9411,
+    "mtime": 1791520713.378038,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-36.srt",
+    "bytes": 6242,
+    "mtime": 1791520713.3772762,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-36.txt",
+    "bytes": 3531,
+    "mtime": 1791520713.3771045,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-36.wav",
+    "bytes": 8768078,
+    "mtime": 1791520704.9725544,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-37.json",
+    "bytes": 35360,
+    "mtime": 1791520732.5009193,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-37.log",
+    "bytes": 16853,
+    "mtime": 1791520732.5016901,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-37.srt",
+    "bytes": 13841,
+    "mtime": 1791520732.5006316,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-37.txt",
+    "bytes": 8069,
+    "mtime": 1791520732.5003932,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-37.wav",
+    "bytes": 19520078,
+    "mtime": 1791520713.699813,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-38.json",
+    "bytes": 21349,
+    "mtime": 1791520740.767197,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-38.log",
+    "bytes": 10420,
+    "mtime": 1791520740.7672572,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-38.srt",
+    "bytes": 7288,
+    "mtime": 1791520740.7669759,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-38.txt",
+    "bytes": 3616,
+    "mtime": 1791520740.7667966,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-38.wav",
+    "bytes": 8160078,
+    "mtime": 1791520732.6608503,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-39.json",
+    "bytes": 25353,
+    "mtime": 1791520751.2545567,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-39.log",
+    "bytes": 11906,
+    "mtime": 1791520751.2551026,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-39.srt",
+    "bytes": 8814,
+    "mtime": 1791520751.254329,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-39.txt",
+    "bytes": 4442,
+    "mtime": 1791520751.2541053,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr/chapter-39.wav",
+    "bytes": 11360078,
+    "mtime": 1791520740.9703596,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/asr-manifest.json",
+    "bytes": 21020,
+    "mtime": 1791520751.2612326,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-check-manifest.json",
+    "bytes": 4757,
+    "mtime": 1791521314.9916701,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/10113.png",
+    "bytes": 38373,
+    "mtime": 1791520929.3262975,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/1085-full.png",
+    "bytes": 428207,
+    "mtime": 1791521314.7499533,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/11104.png",
+    "bytes": 26608,
+    "mtime": 1791520929.3691683,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/1117.png",
+    "bytes": 21859,
+    "mtime": 1791520928.7959387,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/1119-full.png",
+    "bytes": 363412,
+    "mtime": 1791521314.8031907,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/1120.png",
+    "bytes": 24282,
+    "mtime": 1791521161.1430056,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/1121.png",
+    "bytes": 24818,
+    "mtime": 1791520928.841885,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/12899.png",
+    "bytes": 35546,
+    "mtime": 1791520929.4193661,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/12974-full.png",
+    "bytes": 414851,
+    "mtime": 1791521314.986544,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/13010.png",
+    "bytes": 59457,
+    "mtime": 1791520929.468751,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/13858.png",
+    "bytes": 20127,
+    "mtime": 1791520929.5194747,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/13863.png",
+    "bytes": 40151,
+    "mtime": 1791521161.268741,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/14171.png",
+    "bytes": 26999,
+    "mtime": 1791521161.3150954,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/14173.png",
+    "bytes": 24211,
+    "mtime": 1791520929.5694346,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/151.png",
+    "bytes": 33747,
+    "mtime": 1791520928.5092382,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/15735.png",
+    "bytes": 1014,
+    "mtime": 1791520929.6115193,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/15747.png",
+    "bytes": 19812,
+    "mtime": 1791521161.3530464,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/162-full.png",
+    "bytes": 328638,
+    "mtime": 1791521314.4631424,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/162.png",
+    "bytes": 987,
+    "mtime": 1791520928.5487587,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/164.png",
+    "bytes": 20326,
+    "mtime": 1791521160.9356163,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/1899.png",
+    "bytes": 36120,
+    "mtime": 1791520928.8830075,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/2029.png",
+    "bytes": 35299,
+    "mtime": 1791520928.922706,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/210.png",
+    "bytes": 35202,
+    "mtime": 1791520928.5893211,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/227-full.png",
+    "bytes": 383257,
+    "mtime": 1791521314.521734,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/228.png",
+    "bytes": 22472,
+    "mtime": 1791521160.9746878,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/234.png",
+    "bytes": 105344,
+    "mtime": 1791521161.0184515,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/235-full.png",
+    "bytes": 370970,
+    "mtime": 1791521314.58134,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/243.png",
+    "bytes": 21977,
+    "mtime": 1791520928.6292195,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/2501.png",
+    "bytes": 1155,
+    "mtime": 1791520928.9691944,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/2519.png",
+    "bytes": 45543,
+    "mtime": 1791520929.0168025,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/267.png",
+    "bytes": 37482,
+    "mtime": 1791520928.669862,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/3740-full.png",
+    "bytes": 410079,
+    "mtime": 1791521314.8664012,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/3740.png",
+    "bytes": 1354,
+    "mtime": 1791520929.062087,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/3742.png",
+    "bytes": 25512,
+    "mtime": 1791521161.1824918,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/3746.png",
+    "bytes": 24774,
+    "mtime": 1791520929.1094046,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/468-full.png",
+    "bytes": 359149,
+    "mtime": 1791521314.6368315,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/552.png",
+    "bytes": 1058,
+    "mtime": 1791520928.7080956,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/554.png",
+    "bytes": 25767,
+    "mtime": 1791521161.0643604,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/5598.png",
+    "bytes": 44361,
+    "mtime": 1791520929.1514084,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/583.png",
+    "bytes": 34370,
+    "mtime": 1791520928.753322,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/585-full.png",
+    "bytes": 363357,
+    "mtime": 1791521314.6867921,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/588.png",
+    "bytes": 987,
+    "mtime": 1791521161.103546,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/6996-full.png",
+    "bytes": 430019,
+    "mtime": 1791521314.924509,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/7360.png",
+    "bytes": 105978,
+    "mtime": 1791520929.1967084,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/7427.png",
+    "bytes": 987,
+    "mtime": 1791520929.24245,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/7430.png",
+    "bytes": 33735,
+    "mtime": 1791521161.2269602,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/84-full.png",
+    "bytes": 348914,
+    "mtime": 1791521314.3542562,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/86.png",
+    "bytes": 30576,
+    "mtime": 1791520928.466169,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/8622.png",
+    "bytes": 192693,
+    "mtime": 1791520929.2857814,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-checks/90-full.png",
+    "bytes": 282300,
+    "mtime": 1791521314.4103498,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-ocr-fullframe.txt",
+    "bytes": 1548,
+    "mtime": 1791521315.9127915,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-ocr-supplement.txt",
+    "bytes": 1365,
+    "mtime": 1791521161.9735131,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/caption-ocr.txt",
+    "bytes": 3422,
+    "mtime": 1791520930.9063091,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/check-0.png",
+    "bytes": 73773,
+    "mtime": 1791520090.253919,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/check-15735.png",
+    "bytes": 68218,
+    "mtime": 1791520090.3682141,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/check-42.png",
+    "bytes": 10128,
+    "mtime": 1791520090.2901468,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/check-95.png",
+    "bytes": 87644,
+    "mtime": 1791519990.5911882,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/check-99.5.png",
+    "bytes": 74116,
+    "mtime": 1791520090.329291,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/coverage-audit.json",
+    "bytes": 12269,
+    "mtime": 1791521162.019026,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/1112.png",
+    "bytes": 394282,
+    "mtime": 1791520156.470067,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/1117.png",
+    "bytes": 381395,
+    "mtime": 1791520156.5429108,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/1285.png",
+    "bytes": 419534,
+    "mtime": 1791520156.6185753,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/15735.png",
+    "bytes": 306828,
+    "mtime": 1791520157.0666256,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/164-full.png",
+    "bytes": 397677,
+    "mtime": 1791521171.8428664,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/170.png",
+    "bytes": 414171,
+    "mtime": 1791520155.7802024,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/1716.png",
+    "bytes": 379293,
+    "mtime": 1791520156.6928227,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/1825.png",
+    "bytes": 414113,
+    "mtime": 1791520156.773308,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/1895.png",
+    "bytes": 404507,
+    "mtime": 1791520156.853185,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/190.png",
+    "bytes": 408272,
+    "mtime": 1791520155.8599868,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/2030.png",
+    "bytes": 412623,
+    "mtime": 1791520156.935488,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/205.png",
+    "bytes": 398895,
+    "mtime": 1791520155.9339125,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/2050.png",
+    "bytes": 391084,
+    "mtime": 1791520157.004388,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/235.png",
+    "bytes": 370970,
+    "mtime": 1791520156.0075366,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/315.png",
+    "bytes": 334301,
+    "mtime": 1791520156.0753891,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/560.png",
+    "bytes": 408874,
+    "mtime": 1791520156.1560574,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/586.png",
+    "bytes": 408164,
+    "mtime": 1791520156.2322319,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/944.png",
+    "bytes": 434974,
+    "mtime": 1791520156.3142226,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/984.png",
+    "bytes": 384742,
+    "mtime": 1791520156.3853788,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/frames/99.5.png",
+    "bytes": 312007,
+    "mtime": 1791520155.6985288,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repair-asr.py",
+    "bytes": 2001,
+    "mtime": 1791520783.6979957,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repair-ranges.json",
+    "bytes": 4109,
+    "mtime": 1791520792.4947035,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/diet-amounts.json",
+    "bytes": 2845,
+    "mtime": 1791521435.306757,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/diet-amounts.log",
+    "bytes": 3665,
+    "mtime": 1791521435.306857,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/diet-amounts.wav",
+    "bytes": 512078,
+    "mtime": 1791521434.883947,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/diet-targets.json",
+    "bytes": 1660,
+    "mtime": 1791521435.7940156,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/diet-targets.log",
+    "bytes": 3464,
+    "mtime": 1791521435.794123,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/diet-targets.wav",
+    "bytes": 704078,
+    "mtime": 1791521435.3628366,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-01.json",
+    "bytes": 2518,
+    "mtime": 1791520784.2881927,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-01.log",
+    "bytes": 3797,
+    "mtime": 1791520784.2882662,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-01.txt",
+    "bytes": 320,
+    "mtime": 1791520784.2880762,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-01.wav",
+    "bytes": 608078,
+    "mtime": 1791520783.820458,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-02.json",
+    "bytes": 1970,
+    "mtime": 1791520784.7585464,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-02.log",
+    "bytes": 3619,
+    "mtime": 1791520784.7586079,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-02.txt",
+    "bytes": 241,
+    "mtime": 1791520784.7580972,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-02.wav",
+    "bytes": 608078,
+    "mtime": 1791520784.3438463,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-03.json",
+    "bytes": 3395,
+    "mtime": 1791520785.7421772,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-03.log",
+    "bytes": 4176,
+    "mtime": 1791520785.7422376,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-03.txt",
+    "bytes": 567,
+    "mtime": 1791520785.7417026,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-03.wav",
+    "bytes": 1408078,
+    "mtime": 1791520784.8316681,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-04.json",
+    "bytes": 2492,
+    "mtime": 1791520786.2803771,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-04.log",
+    "bytes": 3769,
+    "mtime": 1791520786.2805247,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-04.txt",
+    "bytes": 292,
+    "mtime": 1791520786.2802587,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-04.wav",
+    "bytes": 608078,
+    "mtime": 1791520785.7999425,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-05.json",
+    "bytes": 5203,
+    "mtime": 1791520787.3218422,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-05.log",
+    "bytes": 4620,
+    "mtime": 1791520787.3219135,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-05.txt",
+    "bytes": 648,
+    "mtime": 1791520787.321697,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-05.wav",
+    "bytes": 1408078,
+    "mtime": 1791520786.3581877,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-06.json",
+    "bytes": 3250,
+    "mtime": 1791520788.247274,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-06.log",
+    "bytes": 4151,
+    "mtime": 1791520788.247402,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-06.txt",
+    "bytes": 575,
+    "mtime": 1791520788.247147,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-06.wav",
+    "bytes": 1408078,
+    "mtime": 1791520787.3970482,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-07.json",
+    "bytes": 3762,
+    "mtime": 1791520789.1013188,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-07.log",
+    "bytes": 4171,
+    "mtime": 1791520789.1014118,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-07.txt",
+    "bytes": 463,
+    "mtime": 1791520789.1011922,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-07.wav",
+    "bytes": 1408078,
+    "mtime": 1791520788.321606,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-08.json",
+    "bytes": 4682,
+    "mtime": 1791520790.0593183,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-08.log",
+    "bytes": 4469,
+    "mtime": 1791520790.0594318,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-08.txt",
+    "bytes": 596,
+    "mtime": 1791520790.0591831,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-08.wav",
+    "bytes": 1408078,
+    "mtime": 1791520789.1763208,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-09.json",
+    "bytes": 2581,
+    "mtime": 1791520790.573894,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-09.log",
+    "bytes": 3738,
+    "mtime": 1791520790.5739918,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-09.txt",
+    "bytes": 228,
+    "mtime": 1791520790.5737658,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-09.wav",
+    "bytes": 608078,
+    "mtime": 1791520790.111711,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-10.json",
+    "bytes": 3461,
+    "mtime": 1791520791.141813,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-10.log",
+    "bytes": 4000,
+    "mtime": 1791520791.1418712,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-10.txt",
+    "bytes": 325,
+    "mtime": 1791520791.141697,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-10.wav",
+    "bytes": 608078,
+    "mtime": 1791520790.6279585,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-11.json",
+    "bytes": 1707,
+    "mtime": 1791520791.5589209,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-11.log",
+    "bytes": 3476,
+    "mtime": 1791520791.5590415,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-11.txt",
+    "bytes": 131,
+    "mtime": 1791520791.5588174,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-11.wav",
+    "bytes": 608078,
+    "mtime": 1791520791.1974044,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-12.json",
+    "bytes": 3024,
+    "mtime": 1791520792.4902892,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-12.log",
+    "bytes": 4051,
+    "mtime": 1791520792.4903686,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-12.txt",
+    "bytes": 508,
+    "mtime": 1791520792.490164,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/patch-12.wav",
+    "bytes": 1408078,
+    "mtime": 1791520791.6345835,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/tail-full.json",
+    "bytes": 1611,
+    "mtime": 1791521369.790947,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/tail-full.log",
+    "bytes": 3288,
+    "mtime": 1791521369.7910464,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/repairs/tail-full.wav",
+    "bytes": 203348,
+    "mtime": 1791521369.3394709,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/runtime-check.info.json",
+    "bytes": 95158,
+    "mtime": 1791519858.7572517,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/source-x-720.mp4",
+    "bytes": 1003394881,
+    "mtime": 1791520100.372469,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/source-x.info.json",
+    "bytes": 11407,
+    "mtime": 1791519921.1866148,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/source-x.mp4",
+    "bytes": 162385263,
+    "mtime": 1791519926.056172,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/task-files.json",
+    "bytes": 85912,
+    "mtime": 1791521435.8590386,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/访谈读取/0Z-vhBvBmUY-20261009/transcribe-chapters.py",
+    "bytes": 3716,
+    "mtime": 1791520378.549096,
+    "source": "本任务公开素材获取/离线转录/字幕提取/覆盖检查",
+    "purpose": "源证据、核对、恢复与验收回查；保留",
+    "created_by_current_task": true
+  }
+]

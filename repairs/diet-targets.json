@@ -1,0 +1,87 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:04,800"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 4800
+			},
+			"text": "然后cloco的就会抓一下这个卡路里再抓一下这个饭的卡路里"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,800",
+				"to": "00:00:09,400"
+			},
+			"offsets": {
+				"from": 4800,
+				"to": 9400
+			},
+			"text": "然后二者相见然后600卡以内"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,400",
+				"to": "00:00:11,400"
+			},
+			"offsets": {
+				"from": 9400,
+				"to": 11400
+			},
+			"text": "就说是缠手之房"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,400",
+				"to": "00:00:15,600"
+			},
+			"offsets": {
+				"from": 11400,
+				"to": 15600
+			},
+			"text": "然后100现在定了140吧150克蛋白质"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,600",
+				"to": "00:00:22,000"
+			},
+			"offsets": {
+				"from": 15600,
+				"to": 22000
+			},
+			"text": "然后呢就就就啊然后就增击简直同时增击简直"
+		}
+	]
+}

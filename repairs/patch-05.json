@@ -1,0 +1,307 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:03,840"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 3840
+			},
+			"text": "但是在全人类给你进度条给你拖快来啊"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:03,840",
+				"to": "00:00:04,800"
+			},
+			"offsets": {
+				"from": 3840,
+				"to": 4800
+			},
+			"text": "对不对"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,800",
+				"to": "00:00:07,400"
+			},
+			"offsets": {
+				"from": 4800,
+				"to": 7400
+			},
+			"text": "所以我们如果细股大家是站在全人类角度"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,400",
+				"to": "00:00:09,400"
+			},
+			"offsets": {
+				"from": 7400,
+				"to": 9400
+			},
+			"text": "欢迎AI多"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,400",
+				"to": "00:00:11,000"
+			},
+			"offsets": {
+				"from": 9400,
+				"to": 11000
+			},
+			"text": "多辽切一点这个"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,000",
+				"to": "00:00:12,280"
+			},
+			"offsets": {
+				"from": 11000,
+				"to": 12280
+			},
+			"text": "这个这个这个这个"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,280",
+				"to": "00:00:13,400"
+			},
+			"offsets": {
+				"from": 12280,
+				"to": 13400
+			},
+			"text": "ID而对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,400",
+				"to": "00:00:14,400"
+			},
+			"offsets": {
+				"from": 13400,
+				"to": 14400
+			},
+			"text": "对吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,400",
+				"to": "00:00:15,120"
+			},
+			"offsets": {
+				"from": 14400,
+				"to": 15120
+			},
+			"text": "但是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,120",
+				"to": "00:00:16,880"
+			},
+			"offsets": {
+				"from": 15120,
+				"to": 16880
+			},
+			"text": "那自媒体是否也是疯口呢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:16,880",
+				"to": "00:00:18,600"
+			},
+			"offsets": {
+				"from": 16880,
+				"to": 18600
+			},
+			"text": "类似于你把信息给他"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,600",
+				"to": "00:00:20,240"
+			},
+			"offsets": {
+				"from": 18600,
+				"to": 20240
+			},
+			"text": "互联网话了 数字话了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,240",
+				"to": "00:00:20,760"
+			},
+			"offsets": {
+				"from": 20240,
+				"to": 20760
+			},
+			"text": "冰"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,760",
+				"to": "00:00:21,760"
+			},
+			"offsets": {
+				"from": 20760,
+				"to": 21760
+			},
+			"text": "绝对是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:21,760",
+				"to": "00:00:22,760"
+			},
+			"offsets": {
+				"from": 21760,
+				"to": 22760
+			},
+			"text": "绝对是"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,760",
+				"to": "00:00:24,240"
+			},
+			"offsets": {
+				"from": 22760,
+				"to": 24240
+			},
+			"text": "我觉得自媒体实在"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,240",
+				"to": "00:00:25,720"
+			},
+			"offsets": {
+				"from": 24240,
+				"to": 25720
+			},
+			"text": "就是说这个媒体实在"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,720",
+				"to": "00:00:26,720"
+			},
+			"offsets": {
+				"from": 25720,
+				"to": 26720
+			},
+			"text": "问人家自媒体"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:26,720",
+				"to": "00:00:28,720"
+			},
+			"offsets": {
+				"from": 26720,
+				"to": 28720
+			},
+			"text": "以前只有媒体才能说"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,720",
+				"to": "00:00:30,720"
+			},
+			"offsets": {
+				"from": 28720,
+				"to": 30720
+			},
+			"text": "你有想法你自己不能表达"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,720",
+				"to": "00:00:31,720"
+			},
+			"offsets": {
+				"from": 30720,
+				"to": 31720
+			},
+			"text": "對吧"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:31,720",
+				"to": "00:00:37,720"
+			},
+			"offsets": {
+				"from": 31720,
+				"to": 37720
+			},
+			"text": "這個媒體呢就是一個媒體裡面的幾個人總編和記者訂了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:37,720",
+				"to": "00:00:39,720"
+			},
+			"offsets": {
+				"from": 37720,
+				"to": 39720
+			},
+			"text": "就你知道那個不然你在原本在媒體工作"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:39,720",
+				"to": "00:00:41,720"
+			},
+			"offsets": {
+				"from": 39720,
+				"to": 41720
+			},
+			"text": "我在媒體工作過"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:41,720",
+				"to": "00:00:43,720"
+			},
+			"offsets": {
+				"from": 41720,
+				"to": 43720
+			},
+			"text": "媒體就是一個很簡單的一個結構"
+		}
+	]
+}

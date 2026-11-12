@@ -1,0 +1,296 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | CPU : NEON = 1 | ARM_FMA = 1 | FP16_VA = 1 | MATMUL_INT8 = 1 | DOTPROD = 1 | SME = 1 | SME2 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "base",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"text": {
+			"ctx": 448,
+			"state": 512,
+			"head": 8,
+			"layer": 6
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Volumes/EXTERNAL/Tools/Whisper/models/ggml-base.bin",
+		"language": "zh",
+		"translate": false
+	},
+	"result": {
+		"language": "zh"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:01,480"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 1480
+			},
+			"text": "今天您重新二十岁"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:01,480",
+				"to": "00:00:02,960"
+			},
+			"offsets": {
+				"from": 1480,
+				"to": 2960
+			},
+			"text": "没有人们 没有资源"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,960",
+				"to": "00:00:04,800"
+			},
+			"offsets": {
+				"from": 2960,
+				"to": 4800
+			},
+			"text": "您会怎么重新开始"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:04,800",
+				"to": "00:00:05,800"
+			},
+			"offsets": {
+				"from": 4800,
+				"to": 5800
+			},
+			"text": "给年轻人的建议"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:05,800",
+				"to": "00:00:08,600"
+			},
+			"offsets": {
+				"from": 5800,
+				"to": 8600
+			},
+			"text": "我觉得就是也还是不难"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:08,600",
+				"to": "00:00:09,760"
+			},
+			"offsets": {
+				"from": 8600,
+				"to": 9760
+			},
+			"text": "太阴阳"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:09,760",
+				"to": "00:00:11,360"
+			},
+			"offsets": {
+				"from": 9760,
+				"to": 11360
+			},
+			"text": "太干活 太干活"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:11,360",
+				"to": "00:00:12,720"
+			},
+			"offsets": {
+				"from": 11360,
+				"to": 12720
+			},
+			"text": "而且我觉得这一期伯克"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:12,720",
+				"to": "00:00:14,280"
+			},
+			"offsets": {
+				"from": 12720,
+				"to": 14280
+			},
+			"text": "应该真的是能帮到很多人"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,280",
+				"to": "00:00:15,440"
+			},
+			"offsets": {
+				"from": 14280,
+				"to": 15440
+			},
+			"text": "这是实话"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:15,440",
+				"to": "00:00:17,040"
+			},
+			"offsets": {
+				"from": 15440,
+				"to": 17040
+			},
+			"text": "认知决定认知"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:17,040",
+				"to": "00:00:18,080"
+			},
+			"offsets": {
+				"from": 17040,
+				"to": 18080
+			},
+			"text": "其实都是认知"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,080",
+				"to": "00:00:20,680"
+			},
+			"offsets": {
+				"from": 18080,
+				"to": 20680
+			},
+			"text": "这就是黄毛 国际 国际 国际"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,680",
+				"to": "00:00:22,120"
+			},
+			"offsets": {
+				"from": 20680,
+				"to": 22120
+			},
+			"text": "都是认知 都是认知"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:22,120",
+				"to": "00:00:23,720"
+			},
+			"offsets": {
+				"from": 22120,
+				"to": 23720
+			},
+			"text": "今天能看到我们这个节目的"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:23,720",
+				"to": "00:00:25,560"
+			},
+			"offsets": {
+				"from": 23720,
+				"to": 25560
+			},
+			"text": "听众就非常幸福"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:25,560",
+				"to": "00:00:27,120"
+			},
+			"offsets": {
+				"from": 25560,
+				"to": 27120
+			},
+			"text": "打进边保存"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:27,120",
+				"to": "00:00:30,440"
+			},
+			"offsets": {
+				"from": 27120,
+				"to": 30440
+			},
+			"text": "如果你的周围人给你发这个节目"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:30,440",
+				"to": "00:00:32,800"
+			},
+			"offsets": {
+				"from": 30440,
+				"to": 32800
+			},
+			"text": "你就是要天安万谢"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:32,800",
+				"to": "00:00:34,320"
+			},
+			"offsets": {
+				"from": 32800,
+				"to": 34320
+			},
+			"text": "我跟你讲就是每年过年"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:34,320",
+				"to": "00:00:35,560"
+			},
+			"offsets": {
+				"from": 34320,
+				"to": 35560
+			},
+			"text": "得去他家拜年"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:35,560",
+				"to": "00:00:38,160"
+			},
+			"offsets": {
+				"from": 35560,
+				"to": 38160
+			},
+			"text": "就是说太感谢你发给我视频了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,160",
+				"to": "00:00:39,800"
+			},
+			"offsets": {
+				"from": 38160,
+				"to": 39800
+			},
+			"text": "的话就改变了我的人生了"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:40,800",
+				"to": "00:00:41,320"
+			},
+			"offsets": {
+				"from": 40800,
+				"to": 41320
+			},
+			"text": "决然对"
+		}
+	]
+}
